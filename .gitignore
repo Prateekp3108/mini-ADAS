@@ -1,1 +1,7 @@
 adas/
+__pycache__/
+*.pyc
+*.pth
+data/raw/
+outputs/
+.env
