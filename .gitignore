@@ -5,3 +5,24 @@ __pycache__/
 data/raw/
 outputs/
 .env
+
+# model weights
+*.pt
+models/
+
+# large files
+*.mp4
+*.avi
+*.mkv
+*.webm
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# python env folders
+venv/
+env/
+
+# os files
+.DS_Store
+Thumbs.db
